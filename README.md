@@ -19,12 +19,12 @@ To run:
   1. Fill in any information requested
   1. Ensure that the option for "Copy to Device" is selected under "After Build."
   1.
-    1. xCode:
+    - xCode
       1. Open xCode and navigate to "Window -> Devices."
       1. Select the device.
       1. Under "Installed Apps" click the "+" button.
       1. Choose the .app file created by Corona and click "Install.
-    1. iTunes:
+    - iTunes
       1. Open iTunes and navigate to "File -> Add to Library."
       1. Find the .app file created by Corona and confirm that the app is listed as installed.
       1. Sync the device and the app should be installed.
