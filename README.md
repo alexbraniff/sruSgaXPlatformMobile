@@ -23,33 +23,34 @@ To run:
       
       - *Apple Developer Account (to install on an iOS device)*
       
-    1: Clone or download this repository as a zip.
+    1. Clone or download this repository as a zip.
     
-    2: Open the project with Corona SDK.
+    1. Open the project with Corona SDK.
     
-    3: Connect your iOS device to the PC.
+    1. Connect your iOS device to the PC.
     
-    4: Navigate to "File -> Build -> iOS."
+    1. Navigate to "File -> Build -> iOS."
     
-    5: Fill in any information requested
+    1. Fill in any information requested
     
-      5a: Ensure that the option for "Copy to Device" is selected under "After Build."
+      1. Ensure that the option for "Copy to Device" is selected under "After Build."
       
-    6a - xCode:
+    1.
+      1. xCode:
     
-        i: Open xCode and navigate to "Window -> Devices."
+        1. Open xCode and navigate to "Window -> Devices."
         
-       ii: Select the device.
+        1. Select the device.
        
-      iii: Under "Installed Apps" click the "+" button.
+        1. Under "Installed Apps" click the "+" button.
       
-       iv: Choose the .app file created by Corona and click "Install.
+        1. Choose the .app file created by Corona and click "Install.
        
-    6b - iTunes:
+      1. iTunes:
     
-        i: Open iTunes and navigate to "File -> Add to Library."
+        1. Open iTunes and navigate to "File -> Add to Library."
         
-       ii: Find the .app file created by Corona and confirm that the app is listed as installed.
+        1. Find the .app file created by Corona and confirm that the app is listed as installed.
        
-      iii: Sync the device and the app should be installed.
+        1. Sync the device and the app should be installed.
       
