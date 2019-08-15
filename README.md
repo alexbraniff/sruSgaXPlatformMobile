@@ -6,13 +6,13 @@ To run:
 
   - On Android:
   
-    1: Clone or download this repository as a zip.
+    1. Clone or download this repository as a zip.
     
-    2: Copy "Builds/SGA-MobileApp.apk" onto your Android device.
+    1. Copy "Builds/SGA-MobileApp.apk" onto your Android device.
     
-    3: Navigate to the apk with a file browser and install
+    1. Navigate to the apk with a file browser and install
     
-      3a: Allow installations from unknown sources, if prompted.
+      1. Allow installations from unknown sources, if prompted.
       
       
   - On iPhone:
