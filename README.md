@@ -18,7 +18,7 @@ To run:
   1. Navigate to "File -> Build -> iOS."
   1. Fill in any information requested
   1. Ensure that the option for "Copy to Device" is selected under "After Build."
-  1.
+  1. Install to your device.
     - xCode
       1. Open xCode and navigate to "Window -> Devices."
       1. Select the device.
